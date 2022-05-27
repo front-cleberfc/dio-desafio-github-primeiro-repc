@@ -1,0 +1,11 @@
+Trabalhando Git ao gitHub
+. git config --list >confirma igualdade entre repositório local e remoto
+. git confi --global user.email > confirma email
+                    >user.name> confirma autor
+. git remoto add origin ( cola endereço Github) cadastra repositório
+. git remot -v > lista repositórios cadastrados
+. git add . > atualiza o repositório
+. git comit - m (discrição do que foi atualizado) tem que informar o que se foi modificado
+                                                   ou acrecentado.
+. git push origen main > fundamental para reconhecimento e inclusão no repositório remoto
+                           (GitHub)
